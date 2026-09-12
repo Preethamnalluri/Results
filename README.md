@@ -4,7 +4,7 @@ Results App is an academic analytics portal built with Python and Streamlit. It 
 
 ## 🌐 Live Demo
 
-[https://academic-results.streamlit.app/](https://academic-results.streamlit.app/)
+[https://academic-result.streamlit.app/](https://academic-result.streamlit.app)
 
 ## 📸 Screenshots
 
@@ -120,7 +120,7 @@ Results App is an academic analytics portal that enables students to access thei
 
 **Made by:** Prahit Viraaj Reddy
 
-- - GitHub: **@PrahitViraajReddy**
+- - GitHub: **@PreethamNalluri**
 - Live App: [https://academic-results.streamlit.app/](https://academic-results.streamlit.app/)
 
 ## ⚠️ Disclaimer
